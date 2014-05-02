@@ -1,4 +1,4 @@
 custom-contact-forms
 ====================
 
-custom data.gov plugin
+Custom Contact Forms is a WordPress plugin
