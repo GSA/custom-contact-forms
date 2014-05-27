@@ -1,0 +1,7 @@
+{
+    "name": "gsa/custom-contact-forms",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
